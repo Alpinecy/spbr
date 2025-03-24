@@ -1,5 +1,6 @@
 <h1 style="center">SPBR</h1>
 <br>
+<img src="https://i.imgur.com/exlmnSW.png">
 <p style="center">Features: Win</p>
 <a href="https://www.roblox.com/games/112950952997562/100-Player-Boat-Ride-HARD">View game</a>
 <br>
